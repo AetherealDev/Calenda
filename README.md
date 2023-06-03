@@ -1,4 +1,4 @@
-<h1 style="text-align: center;">Calenda</h1>
+# Calenda
 
 ![Calenda app screenshot](image.png)
 Calenda is a simple web application using DayJS, bootstrap, and JQuery API's to help you schedule your workdays
