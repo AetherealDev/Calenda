@@ -12,6 +12,11 @@ textarea {
   padding: 10px;
 }
 
+.calendar-icon {
+  width: 5%; /* Reduce the width to 20% of its original size */
+  height: auto; /* Maintain the aspect ratio */
+}
+
 .description {
   white-space: pre-wrap;
 }
